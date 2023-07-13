@@ -4,7 +4,7 @@
     padding: 0px;
 }
 html {
-    font-size: 62.5%;
+    font-size: 30.5%;
 }
 body {
     font-family: 'Square Peg', cursive;
@@ -25,14 +25,14 @@ h1 {
 }
 .container .image {
     border-radius: 20px;
-    margin: 20px;
+    margin: 10px;
     width: auto;
-    height: 500px;
+    height: 300px;
 }
 .random-cat-button {
     align-items: center;
-    background-color: rgb(228, 164, 94);
-    border: 5px solid rgb(249, 151, 66);
+    background-color: royalblue;
+    border: 3px solid rosybrown;
     border-radius: 15px;
     cursor: pointer;
     font-family: 'Pacifico', cursive;
